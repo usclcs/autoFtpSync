@@ -1,0 +1,34 @@
+{
+    "global": {
+        "autoStart": true,
+        "updateUrl": "https://freefilesync.org/download/FreeFileSync_14.11_Windows_Setup.exe",
+        "webEnabled": true,
+        "webToken": "{9bdc57e6a3ab4033a19dacb3ead5f193}"
+    },
+    "servers": [
+        {
+            "anonymous": false,
+            "encoding": "",
+            "host": "10.50.1.205",
+            "name": "FTP服务器",
+            "passiveMode": true,
+            "password": "AhwRBmdAXlo=",
+            "port": 7121,
+            "protocol": "ftp",
+            "username": "ftpuser"
+        }
+    ],
+    "tasks": [
+        {
+            "deleteRemote": false,
+            "enabled": true,
+            "id": "4ae831e3-0263-4912-b1f5-379b2263c7ad",
+            "ignoreRules": [
+            ],
+            "localDir": "C:/Users/lics/Desktop/autoUploadFiles",
+            "name": "同步项目开发记录",
+            "remoteDir": "lics_test",
+            "serverName": "FTP服务器"
+        }
+    ]
+}

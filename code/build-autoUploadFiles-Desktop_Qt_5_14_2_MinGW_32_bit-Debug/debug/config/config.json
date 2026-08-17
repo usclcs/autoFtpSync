@@ -1,0 +1,57 @@
+{
+    "global": {
+        "autoStart": true,
+        "debounceMs": 10000,
+        "updateUrl": "",
+        "webEnabled": true,
+        "webToken": "{2b809546c3e940c7bf74206e946e097a}"
+    },
+    "servers": [
+        {
+            "anonymous": false,
+            "encoding": "",
+            "host": "10.50.1.205",
+            "name": "FTP服务器",
+            "passiveMode": true,
+            "password": "AhwRBmdAXlo=",
+            "port": 7121,
+            "protocol": "ftp",
+            "username": "ftpuser"
+        }
+    ],
+    "tasks": [
+        {
+            "deleteRemote": false,
+            "enabled": true,
+            "id": "bf5b9240-bf94-4f82-b5e8-6679b033b217",
+            "ignoreRules": [
+            ],
+            "localDir": "C:/Users/lics/Desktop/autoUploadFiles/docs",
+            "name": "测试",
+            "remoteDir": "lics_test",
+            "serverName": "FTP服务器"
+        },
+        {
+            "deleteRemote": false,
+            "enabled": true,
+            "id": "b03e7536-2774-4c1b-b2a0-f0df1594270a",
+            "ignoreRules": [
+            ],
+            "localDir": "C:/Users/lics/Desktop/autoUploadFiles",
+            "name": "测试2",
+            "remoteDir": "lics_test",
+            "serverName": "FTP服务器"
+        },
+        {
+            "deleteRemote": false,
+            "enabled": true,
+            "id": "e071b254-b8d1-44a3-84ab-51c85962ad7d",
+            "ignoreRules": [
+            ],
+            "localDir": "C:\\Users\\lics\\Desktop\\filePreview",
+            "name": "测试3",
+            "remoteDir": "lics_test",
+            "serverName": "FTP服务器"
+        }
+    ]
+}

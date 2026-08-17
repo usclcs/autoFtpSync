@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>960</width>
+    <height>654</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>autoFtpSync</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="centralLayout">
+    <item>
+     <widget class="QTabWidget" name="tabs">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="serverPage">
+       <attribute name="title">
+        <string>FTP服务器配置</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="serverLayout">
+        <item>
+         <layout class="QGridLayout" name="serverFormLayout">
+          <item row="1" column="0">
+           <widget class="QLabel" name="labelServerHost">
+            <property name="text">
+             <string>主机 *</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="labelServerProtocol">
+            <property name="text">
+             <string>协议</string>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="1">
+           <widget class="QSpinBox" name="serverPort">
+            <property name="minimum">
+             <number>1</number>
+            </property>
+            <property name="maximum">
+             <number>65535</number>
+            </property>
+            <property name="value">
+             <number>21</number>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QLineEdit" name="serverHost"/>
+          </item>
+          <item row="7" column="0" colspan="2">
+           <widget class="QCheckBox" name="serverPassive">
+            <property name="text">
+             <string>被动模式</string>
+            </property>
+            <property name="checked">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="0">
+           <widget class="QLabel" name="labelServerUser">
+            <property name="text">
+             <string>用户名</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="0">
+           <widget class="QLabel" name="labelServerName">
+            <property name="text">
+             <string>名称 *</string>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="1">
+           <widget class="QLineEdit" name="serverPass">
+            <property name="echoMode">
+             <enum>QLineEdit::Password</enum>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="0">
+           <widget class="QLabel" name="labelServerPort">
+            <property name="text">
+             <string>端口</string>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="1">
+           <widget class="QLineEdit" name="serverUser"/>
+          </item>
+          <item row="5" column="0">
+           <widget class="QLabel" name="labelServerPass">
+            <property name="text">
+             <string>密码</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="1">
+           <widget class="QComboBox" name="serverProtocol">
+            <item>
+             <property name="text">
+              <string>FTP</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>FTPS-显式</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>FTPS-隐式</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item row="8" column="0" colspan="2">
+           <widget class="QCheckBox" name="serverAnonymous">
+            <property name="text">
+             <string>匿名登录</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QLineEdit" name="serverName"/>
+          </item>
+          <item row="6" column="0">
+           <widget class="QLabel" name="labelServerEncoding">
+            <property name="text">
+             <string>路径编码</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="1">
+           <widget class="QComboBox" name="serverEncoding">
+            <item>
+             <property name="text">
+              <string>UTF-8</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>GBK</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="serverBtnRow">
+          <item>
+           <widget class="QPushButton" name="btnAddServer">
+            <property name="text">
+             <string>新增</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnDeleteServer">
+            <property name="text">
+             <string>删除</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnSaveServer">
+            <property name="text">
+             <string>确认</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnImportServer">
+            <property name="text">
+             <string>导入</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnExportServer">
+            <property name="text">
+             <string>导出</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="serverBtnSpacer">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnTestServer">
+            <property name="text">
+             <string>测试连接</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnClearServer">
+            <property name="text">
+             <string>清空表单</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QLabel" name="labelSavedConnections">
+          <property name="text">
+           <string>链接记录：</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QListWidget" name="serverList"/>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="browsePage">
+       <attribute name="title">
+        <string>FTP 浏览器</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="browseLayout">
+        <item>
+         <layout class="QHBoxLayout" name="browseTopRow">
+          <item>
+           <widget class="QLabel" name="labelBrowseServer">
+            <property name="text">
+             <string>服务器连接：</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="browseServerCombo"/>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="browsePathEdit">
+            <property name="placeholderText">
+             <string>远端路径，留空为登录目录</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="browseGoBtn">
+            <property name="text">
+             <string>转到</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="browseNavRow">
+          <item>
+           <widget class="QPushButton" name="browseUpBtn">
+            <property name="text">
+             <string>上级目录</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="browseRefreshBtn">
+            <property name="text">
+             <string>刷新</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="browseHintLabel">
+            <property name="styleSheet">
+             <string notr="true">color: #888888;</string>
+            </property>
+            <property name="text">
+             <string>右键可对文件/文件夹执行下载、复制、移动、重命名、删除等操作</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="browseNavSpacer">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="browseTable">
+          <property name="editTriggers">
+           <set>QAbstractItemView::NoEditTriggers</set>
+          </property>
+          <property name="selectionMode">
+           <enum>QAbstractItemView::SingleSelection</enum>
+          </property>
+          <property name="selectionBehavior">
+           <enum>QAbstractItemView::SelectRows</enum>
+          </property>
+          <property name="columnCount">
+           <number>3</number>
+          </property>
+          <column>
+           <property name="text">
+            <string>名称</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>类型</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>大小</string>
+           </property>
+          </column>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="browsePagerRow">
+          <item>
+           <widget class="QPushButton" name="browsePrevBtn">
+            <property name="text">
+             <string>上一页</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="browsePageLabel">
+            <property name="text">
+             <string>第 1 / 1 页</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="browsePagerSpacer">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="browseNextBtn">
+            <property name="text">
+             <string>下一页</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="taskPage">
+       <attribute name="title">
+        <string>同步任务</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="taskLayout">
+        <item>
+         <layout class="QHBoxLayout" name="taskBtnRow">
+          <item>
+           <widget class="QPushButton" name="btnAddTask">
+            <property name="text">
+             <string>新增任务</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnEditTask">
+            <property name="text">
+             <string>编辑任务</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnDeleteTask">
+            <property name="text">
+             <string>删除任务</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnToggleTask">
+            <property name="text">
+             <string>启用/停用</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnSyncNow">
+            <property name="text">
+             <string>立即同步</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="taskBtnSpacer">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="taskTable">
+          <property name="editTriggers">
+           <set>QAbstractItemView::NoEditTriggers</set>
+          </property>
+          <property name="selectionMode">
+           <enum>QAbstractItemView::SingleSelection</enum>
+          </property>
+          <property name="selectionBehavior">
+           <enum>QAbstractItemView::SelectRows</enum>
+          </property>
+          <property name="columnCount">
+           <number>6</number>
+          </property>
+          <column>
+           <property name="text">
+            <string>任务名</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>状态</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>本地目录</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>服务器目录</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>服务器</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>启用</string>
+           </property>
+          </column>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="tab">
+       <attribute name="title">
+        <string>Web 远程管理服务</string>
+       </attribute>
+       <widget class="QGroupBox" name="webGroup">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>10</y>
+          <width>940</width>
+          <height>155</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>Web 远程管理服务</string>
+        </property>
+        <layout class="QVBoxLayout" name="webGroupLayout">
+         <item>
+          <widget class="QLabel" name="webHintLabel">
+           <property name="text">
+            <string>通过浏览器访问以下地址，可在其他设备上远程查看服务器连接、同步任务状态与日志，并支持启动/停止/立即同步/重试失败等操作。访问地址需携带访问令牌。</string>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="webStateRow">
+           <item>
+            <widget class="QLabel" name="webStateLabel">
+             <property name="text">
+              <string>状态：未启动</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="webStateSpacer">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>40</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btnToggleWeb">
+             <property name="text">
+              <string>启动服务</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="webAddressRow">
+           <item>
+            <widget class="QLabel" name="webAddressLabel">
+             <property name="text">
+              <string>访问地址：</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="webAddressEdit">
+             <property name="readOnly">
+              <bool>true</bool>
+             </property>
+             <property name="placeholderText">
+              <string>http://本机IP:8899/?token=xxx</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btnCopyWebUrl">
+             <property name="text">
+              <string>复制地址</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="webTokenRow">
+           <item>
+            <widget class="QLabel" name="webTokenLabel">
+             <property name="text">
+              <string>访问令牌：</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="webTokenEdit">
+             <property name="readOnly">
+              <bool>true</bool>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btnRegenToken">
+             <property name="text">
+              <string>重新生成</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="QLabel" name="webPortLabel">
+           <property name="text">
+            <string>监听端口：8899（固定）。如需对外开放，请确保防火墙放行该端口。</string>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="tab_2">
+       <attribute name="title">
+        <string>系统设置</string>
+       </attribute>
+       <widget class="QGroupBox" name="generalStartGroup">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>10</y>
+          <width>940</width>
+          <height>131</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>启动设置</string>
+        </property>
+        <layout class="QVBoxLayout" name="generalStartLayout">
+         <item>
+          <widget class="QCheckBox" name="chkAutoStart">
+           <property name="text">
+            <string>开机自启动</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="generalAutoStartHint">
+           <property name="text">
+            <string>勾选后，登录 Windows 时自动运行本软件，并恢复已启用的同步任务与 Web 远程管理服务。通过写/删注册表 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run 实现，仅对当前用户生效。</string>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QGroupBox" name="generalLogGroup">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>150</y>
+          <width>940</width>
+          <height>80</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>日志设置</string>
+        </property>
+        <layout class="QHBoxLayout" name="generalLogLayout">
+         <item>
+          <widget class="QLabel" name="labelLogRetention">
+           <property name="text">
+            <string>日志保留天数：</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="spinLogRetention">
+           <property name="suffix">
+            <string> 天</string>
+           </property>
+           <property name="minimum">
+            <number>1</number>
+           </property>
+           <property name="maximum">
+            <number>3650</number>
+           </property>
+           <property name="value">
+            <number>30</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="generalLogHint">
+           <property name="styleSheet">
+            <string notr="true">color: #888888;</string>
+           </property>
+           <property name="text">
+            <string>日志按天写入 log/ 目录下的 yyyy-MM-dd.log 文件，自动清理超过保留天数的旧日志。</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="generalLogSpacer">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QGroupBox" name="generalSyncGroup">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>240</y>
+          <width>940</width>
+          <height>80</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>同步设置</string>
+        </property>
+        <layout class="QHBoxLayout" name="generalSyncLayout">
+         <item>
+          <widget class="QLabel" name="labelDebounce">
+           <property name="text">
+            <string>文件去抖时间：</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="spinDebounceMs">
+           <property name="suffix">
+            <string> 毫秒</string>
+           </property>
+           <property name="minimum">
+            <number>100</number>
+           </property>
+           <property name="maximum">
+            <number>60000</number>
+           </property>
+           <property name="value">
+            <number>1500</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="labelUploadSpeed">
+           <property name="text">
+            <string>上传限速：</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="spinUploadSpeed">
+           <property name="specialValueText">
+            <string>不限速</string>
+           </property>
+           <property name="suffix">
+            <string> KB/s</string>
+           </property>
+           <property name="minimum">
+            <number>0</number>
+           </property>
+           <property name="maximum">
+            <number>1048576</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="generalSyncHint">
+           <property name="styleSheet">
+            <string notr="true">color: #888888;</string>
+           </property>
+           <property name="text">
+            <string>本地文件在写入（修改事件持续产生）时，需静默超过该时长才判定写入稳定并开始上传；上传限速可避免占满带宽（0 为不限速）。</string>
+           </property>
+           <property name="wordWrap">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="generalSyncSpacer">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QGroupBox" name="generalVersionGroup">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>330</y>
+          <width>940</width>
+          <height>91</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>软件版本</string>
+        </property>
+        <layout class="QVBoxLayout" name="generalVersionLayout">
+         <item>
+          <layout class="QHBoxLayout" name="versionTopRow">
+           <item>
+            <widget class="QLabel" name="labelVersionCurrent">
+             <property name="text">
+              <string>当前版本：v1.0</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btnCheckUpdate">
+             <property name="text">
+              <string>检查更新</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelVersionUpdateUrl">
+             <property name="text">
+              <string>更新地址：</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="editUpdateUrl">
+             <property name="placeholderText">
+              <string>version.json 的 URL，留空使用默认地址</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="versionTopSpacer">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>40</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="logPage">
+       <attribute name="title">
+        <string>日志</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="logLayout">
+        <item>
+         <layout class="QHBoxLayout" name="logFilterRow">
+          <item>
+           <widget class="QLabel" name="labelLogTask">
+            <property name="text">
+             <string>任务：</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="logTaskFilter">
+            <item>
+             <property name="text">
+              <string>全部</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item>
+           <spacer name="logTaskGap">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Fixed</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>12</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QLabel" name="labelLogLevel">
+            <property name="text">
+             <string>级别：</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="logLevelFilter">
+            <item>
+             <property name="text">
+              <string>全部</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>INFO</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>WARN</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>ERROR</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>DEBUG</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item>
+           <spacer name="logFilterSpacer">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnRetryFailed">
+            <property name="text">
+             <string>重试失败文件</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnClearLog">
+            <property name="text">
+             <string>清空日志</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QPlainTextEdit" name="logView">
+          <property name="readOnly">
+           <bool>true</bool>
+          </property>
+          <property name="maximumBlockCount">
+           <number>5000</number>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="webLayout"/>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="generalLayout"/>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

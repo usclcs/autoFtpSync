@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/ftpclient.o
+debug/configmanager.o
+debug/synctask.o
+debug/taskdialog.o
+debug/webserver.o
+debug/versionmanager.o
+debug/qrc_icons.o
+debug/moc_mainwindow.o
+debug/moc_ftpclient.o
+debug/moc_synctask.o
+debug/moc_taskdialog.o
+debug/moc_webserver.o
+debug/moc_versionmanager.o

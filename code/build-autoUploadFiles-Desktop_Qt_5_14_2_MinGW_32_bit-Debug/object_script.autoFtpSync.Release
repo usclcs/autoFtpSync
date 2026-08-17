@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/ftpclient.o
+release/configmanager.o
+release/synctask.o
+release/taskdialog.o
+release/webserver.o
+release/versionmanager.o
+release/qrc_icons.o
+release/moc_mainwindow.o
+release/moc_ftpclient.o
+release/moc_synctask.o
+release/moc_taskdialog.o
+release/moc_webserver.o
+release/moc_versionmanager.o

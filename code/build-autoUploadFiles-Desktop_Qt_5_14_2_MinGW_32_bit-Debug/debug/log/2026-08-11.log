@@ -1,0 +1,1666 @@
+[09:22:27][ERROR][Web] Web 管理服务监听失败: The bound address is already in use
+[09:22:29][INFO][系统] 自启动注册表写入状态: OK
+[09:22:29][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:22:29][INFO][测试] 任务已启动
+[09:22:29][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:22:29][INFO][测试2] 任务已启动
+[09:22:30][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:22:30][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:22:30][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:22:30][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:22:31][INFO][测试2] MKD lics_test 已存在
+[09:22:31][INFO][测试2] MKD lics_test/code 已存在
+[09:22:31][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release 已存在
+[09:22:31][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release 已存在
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/webserver.o
+[09:22:31][INFO][测试2] MKD lics_test/output 已存在
+[09:22:31][INFO][测试2] MKD lics_test/output/translations 已存在
+[09:22:31][INFO][测试2] 上传成功: output/translations/qt_de.qm
+[09:22:31][INFO][测试2] MKD lics_test/output/imageformats 已存在
+[09:22:31][INFO][测试2] 上传成功: output/imageformats/qjpeg.dll
+[09:22:31][INFO][测试2] 上传成功: output/translations/qt_hu.qm
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.autoFtpSync.Release
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_predefs.h
+[09:22:31][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:22:31][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[09:22:31][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-10.log
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.cpp
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_icons.cpp
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[09:22:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/ui_taskdialog.h
+[09:22:31][INFO][测试2] 上传成功: output/translations/qt_uk.qm
+[09:22:31][INFO][测试2] 上传成功: output/imageformats/qico.dll
+[09:22:31][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[09:22:31][INFO][测试2] 上传成功: code/autoFtpSync/main.cpp
+[09:22:33][INFO][测试2] 上传成功: output.rar
+[09:22:33][INFO][测试2] MKD lics_test/code/ftptest_root 已存在
+[09:22:33][INFO][测试2] 上传成功: code/ftptest_root/README.txt
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_webserver.o
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_taskdialog.cpp
+[09:22:33][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log 已存在
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log/2026-08-10.log
+[09:22:33][INFO][测试2] 上传成功: output/imageformats/qwbmp.dll
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_synctask.o
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[09:22:33][INFO][测试2] 上传成功: output/translations/qt_es.qm
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_ftpclient.cpp
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/taskdialog.o
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_ftpclient.o
+[09:22:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/autoFtpSync_resource_res.o
+[09:22:34][INFO][测试2] 上传成功: output/Qt5Core.dll
+[09:22:34][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[09:22:34][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[09:22:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[09:22:34][INFO][测试2] MKD lics_test/output/bearer 已存在
+[09:22:34][INFO][测试2] 上传成功: output/bearer/qgenericbearer.dll
+[09:22:34][INFO][测试2] 上传成功: output/translations/qt_ru.qm
+[09:22:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_synctask.cpp
+[09:22:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/ui_mainwindow.h
+[09:22:34][INFO][测试2] 上传成功: output/translations/qt_zh_TW.qm
+[09:22:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/mainwindow.o
+[09:22:34][INFO][测试2] 上传成功: output/translations/qt_lv.qm
+[09:22:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[09:22:35][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:22:35][INFO][测试2] 上传成功: output/libwinpthread-1.dll
+[09:22:35][INFO][测试2] 上传成功: output/translations/qt_sk.qm
+[09:22:35][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log/2026-08-11.log
+[09:22:35][INFO][测试2] MKD lics_test/output/log 已存在
+[09:22:35][INFO][测试2] 上传成功: output/log/2026-08-10.log
+[09:22:35][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[09:22:35][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:22:36][INFO][测试2] 上传成功: output/Qt5Widgets.dll
+[09:22:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/autoFtpSync_resource.rc
+[09:22:36][INFO][测试2] 上传成功: output/imageformats/qtiff.dll
+[09:22:36][INFO][测试2] 上传成功: output/translations/qt_he.qm
+[09:22:37][INFO][测试2] 上传成功: output/D3Dcompiler_47.dll
+[09:22:37][INFO][测试2] 上传成功: output/Qt5Network.dll
+[09:22:37][INFO][测试2] MKD lics_test/output/platforms 已存在
+[09:22:37][INFO][测试2] 上传成功: output/platforms/qwindows.dll
+[09:22:38][INFO][测试2] 上传成功: output/Qt5Gui.dll
+[09:22:38][INFO][测试2] 上传成功: output/translations/qt_gd.qm
+[09:22:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/taskdialog.o
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/synctask.o
+[09:22:39][INFO][测试2] MKD lics_test/output/sync_meta 已存在
+[09:22:39][INFO][测试2] 上传成功: output/sync_meta/sync_meta_4ae831e3-0263-4912-b1f5-379b2263c7ad.json
+[09:22:39][INFO][测试2] 上传成功: output/translations/qt_fr.qm
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.o
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/taskdialog.o
+[09:22:39][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/synctask.o
+[09:22:39][INFO][测试2] 上传成功: output/Qt5Svg.dll
+[09:22:39][INFO][测试2] 上传成功: output/translations/qt_en.qm
+[09:22:39][INFO][测试2] MKD lics_test/output/styles 已存在
+[09:22:39][INFO][测试2] 上传成功: output/styles/qwindowsvistastyle.dll
+[09:22:39][INFO][测试2] 上传成功: output/translations/qt_pl.qm
+[09:22:39][INFO][测试2] 上传成功: output/libEGL.dll
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.o
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_icons.o
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.o
+[09:22:39][INFO][测试2] 上传成功: output/translations/qt_ja.qm
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/main.o
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.cpp
+[09:22:39][INFO][测试2] 上传成功: output/imageformats/qgif.dll
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:22:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Release
+[09:22:39][INFO][测试2] 上传成功: output/imageformats/qwebp.dll
+[09:22:40][INFO][测试2] 上传成功: output/libGLESv2.dll
+[09:22:40][INFO][测试2] MKD lics_test/output/config 已存在
+[09:22:40][INFO][测试2] 上传成功: output/config/config.json
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:22:40][INFO][测试2] 上传成功: code/ftptest_root/test.png
+[09:22:40][INFO][测试2] 上传成功: output/autoFtpSync.exe
+[09:22:40][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[09:22:40][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:22:40][INFO][测试2] 上传成功: output/translations/qt_ko.qm
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[09:22:40][INFO][测试2] 上传成功: output/imageformats/qsvg.dll
+[09:22:40][INFO][测试2] 上传成功: output/libstdc++-6.dll
+[09:22:40][INFO][测试2] 上传成功: output/translations/qt_ar.qm
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[09:22:40][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-10.log
+[09:22:40][INFO][测试2] 上传成功: output/libgcc_s_dw2-1.dll
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[09:22:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/.qmake.stash
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Debug
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/ftpclient.o
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/autoFtpSync.exe
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.cpp
+[09:22:41][INFO][测试2] 上传成功: output/translations/qt_fi.qm
+[09:22:41][INFO][测试2] MKD lics_test/output/iconengines 已存在
+[09:22:41][INFO][测试2] 上传成功: output/iconengines/qsvgicon.dll
+[09:22:41][INFO][测试2] 上传成功: output/translations/qt_bg.qm
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[09:22:41][INFO][测试2] 上传成功: output/translations/qt_ca.qm
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/configmanager.o
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_taskdialog.o
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/configmanager.o
+[09:22:41][INFO][测试2] 上传成功: output/translations/qt_it.qm
+[09:22:41][INFO][测试2] 上传成功: output/imageformats/qicns.dll
+[09:22:41][INFO][测试2] 上传成功: code/autoFtpSync/autoFtpSync.pro.user
+[09:22:41][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.h
+[09:22:41][INFO][测试2] 上传成功: output/imageformats/qtga.dll
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_webserver.cpp
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.autoFtpSync.Debug
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[09:22:41][INFO][测试2] 上传成功: output/translations/qt_cs.qm
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:22:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/configmanager.o
+[09:22:43][INFO][测试2] 上传成功: output/opengl32sw.dll
+[09:22:43][INFO][测试2] 上传成功: output/translations/qt_da.qm
+[09:22:43][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.h
+[09:22:43][INFO][测试2] 上传成功: output/log/2026-08-11.log
+[09:22:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.o
+[09:22:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[09:22:43][INFO][测试2] 上传成功: output/libwinpthread-1.dll
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:22:44][INFO][测试2] 上传成功: output/translations/qt_sk.qm
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log/2026-08-11.log
+[09:22:44][INFO][测试2] 上传成功: output/log/2026-08-10.log
+[09:22:44][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[09:22:44][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:22:44][INFO][测试2] 上传成功: code/ftptest_root/test.png
+[09:22:44][INFO][测试2] 上传成功: output/translations/qt_ko.qm
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/ftpclient.o
+[09:22:44][INFO][测试2] 上传成功: output/config/config.json
+[09:22:44][INFO][测试2] 上传成功: output/translations/qt_ar.qm
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:22:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[09:22:44][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[09:22:44][INFO][测试2] 上传成功: output/autoFtpSync.exe
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/autoFtpSync.exe
+[09:22:45][INFO][测试2] 上传成功: output/libGLESv2.dll
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:22:45][INFO][测试2] 上传成功: output/libgcc_s_dw2-1.dll
+[09:22:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/.qmake.stash
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-10.log
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:22:46][INFO][测试2] 上传成功: output/libstdc++-6.dll
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Debug
+[09:22:46][INFO][测试2] 上传成功: output/imageformats/qsvg.dll
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:22:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:22:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:22:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:23:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:23:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:24:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:24:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:25:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:25:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:26:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:26:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:30][INFO][测试] 控制连接断开: The remote host closed the connection
+[09:27:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:27:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:27:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:01][INFO][FTP浏览] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:28:01][INFO][FTP浏览] FTP 登录成功: 10.50.1.205
+[09:28:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:12][INFO][FTP浏览] 查看成功
+[09:28:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:39][INFO][FTP浏览] 查看成功
+[09:28:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:46][INFO][FTP浏览] 查看成功
+[09:28:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:28:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:28:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:29:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:29:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:23][ERROR][Web] Web 管理服务监听失败: The bound address is already in use
+[09:30:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:30:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:30:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:26][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[09:31:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:31:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:31:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:34][INFO][测试2] MKD lics_test/docs 已存在
+[09:32:34][INFO][测试2] 上传成功: docs/f90a293be337098c1cc600e7cdb7599.png
+[09:32:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:36][INFO][测试2] 任务已停止
+[09:32:36][INFO][测试] 任务已停止
+[09:32:44][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[09:32:44][INFO][系统] 自启动注册表写入状态: OK
+[09:32:44][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:32:44][INFO][测试] 任务已启动
+[09:32:44][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:32:44][INFO][测试2] 任务已启动
+[09:32:44][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:32:44][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:32:44][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:32:44][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:32:45][INFO][测试] MKD lics_test 已存在
+[09:32:45][INFO][测试] 上传成功: f90a293be337098c1cc600e7cdb7599.png
+[09:32:45][INFO][测试2] MKD lics_test 已存在
+[09:32:45][INFO][测试2] MKD lics_test/code 已存在
+[09:32:45][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:32:45][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:32:45][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[09:32:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:32:45][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:32:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:32:45][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:32:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:32:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[09:32:50][INFO][FTP浏览] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:32:50][INFO][FTP浏览] FTP 登录成功: 10.50.1.205
+[09:32:50][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:50][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:32:55][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:32:55][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:00][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:00][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:05][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:05][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:10][INFO][FTP浏览] 查看成功
+[09:33:10][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:10][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:15][INFO][FTP浏览] 删除成功
+[09:33:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:20][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:20][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:23][INFO][FTP浏览] 删除成功
+[09:33:25][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:25][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:30][INFO][FTP浏览] 删除成功
+[09:33:30][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:33:30][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:33:35][INFO][测试2] 任务已停止
+[09:33:35][INFO][测试] 任务已停止
+[09:40:07][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[09:40:07][INFO][系统] 自启动注册表写入状态: OK
+[09:40:07][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:40:07][INFO][测试] 任务已启动
+[09:40:07][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:40:07][INFO][测试2] 任务已启动
+[09:40:08][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:40:08][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:40:08][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:40:08][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:40:09][INFO][测试2] MKD lics_test 已存在
+[09:40:09][INFO][测试2] MKD lics_test/code 已存在
+[09:40:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:40:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:40:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[09:40:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:40:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:40:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:40:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[09:40:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:19][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[09:40:19][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.h
+[09:40:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:24][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.h
+[09:40:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:29][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:40:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:39][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:40:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:51][INFO][Web] Web 管理地址已复制到剪贴板
+[09:40:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:40:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:40:59][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:40:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[09:41:09][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[09:41:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/configmanager.o
+[09:41:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[09:41:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[09:41:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[09:41:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:29][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:41:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_ftpclient.cpp
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.cpp
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/ftpclient.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/taskdialog.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_ftpclient.o
+[09:41:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[09:41:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:41:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:41:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:30][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:31][INFO][测试2] 上传成功: code/sync_resume_test/local/resume_test.bin
+[09:42:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:31][INFO][测试2] MKD lics_test/code/ftptest_root 已存在
+[09:42:31][INFO][测试2] 上传成功: code/ftptest_root/resume_test.bin
+[09:42:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:42:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:42:39][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[09:42:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:42:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:13][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[09:49:13][INFO][系统] 自启动注册表写入状态: OK
+[09:49:13][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:49:13][INFO][测试] 任务已启动
+[09:49:13][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:49:13][INFO][测试2] 任务已启动
+[09:49:13][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:49:13][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:49:13][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:49:13][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:49:14][INFO][测试2] MKD lics_test 已存在
+[09:49:14][INFO][测试2] MKD lics_test/code 已存在
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/configmanager.o
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/sync_meta 已存在
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/sync_meta/sync_meta_test-resume.json
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.o
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/ftpclient.o
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.cpp
+[09:49:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:49:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/taskdialog.o
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_ftpclient.cpp
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/ftpclient.o
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[09:49:15][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.o
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/synctask.o
+[09:49:15][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[09:49:15][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_ftpclient.o
+[09:49:15][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:49:15][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:49:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:49:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:50:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:50:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:51:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:51:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:34][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:39][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:49][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.h
+[09:52:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:52:54][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[09:52:59][INFO][测试2] 上传成功: code/autoFtpSync/synctask.h
+[09:52:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:52:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:04][INFO][测试2] 上传成功: code/autoFtpSync/synctask.cpp
+[09:53:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:09][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:09][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:53:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:14][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:53:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:19][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:24][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[09:53:24][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:29][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/ftpclient.o
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/configmanager.o
+[09:53:37][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.o
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/taskdialog.o
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.cpp
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[09:53:40][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[09:53:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[09:53:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:44][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:53:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:53:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:53:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:54:47][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[09:54:47][INFO][系统] 自启动注册表写入状态: OK
+[09:54:47][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:54:47][INFO][测试] 任务已启动
+[09:54:47][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:54:47][INFO][测试2] 任务已启动
+[09:54:47][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:54:47][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:54:47][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:54:47][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:54:49][INFO][测试2] MKD lics_test 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/taskdialog.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/synctask.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/configmanager.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.cpp
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.o
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:54:49][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:54:49][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.o
+[09:54:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:54:54][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:54:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:54:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:54:59][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[09:54:59][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.h
+[09:55:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:55:04][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:55:04][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.h
+[09:55:07][DEBUG][测试2] 去抖间隔已更新为 100ms
+[09:55:07][DEBUG][测试] 去抖间隔已更新为 100ms
+[09:55:07][INFO][系统] 文件去抖时间已设置为 100 毫秒
+[09:55:07][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:55:07][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:55:08][DEBUG][测试2] 去抖间隔已更新为 1000ms
+[09:55:08][DEBUG][测试] 去抖间隔已更新为 1000ms
+[09:55:08][INFO][系统] 文件去抖时间已设置为 1000 毫秒
+[09:55:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:55:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:55:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:55:14][DEBUG][测试2] 去抖间隔已更新为 10000ms
+[09:55:14][DEBUG][测试] 去抖间隔已更新为 10000ms
+[09:55:14][INFO][系统] 文件去抖时间已设置为 10000 毫秒
+[09:55:47][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:55:47][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:55:47][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:55:47][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:55:47][INFO][测试2] 上传成功: code/autoFtpSync/synctask.h
+[09:55:47][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.h
+[09:55:47][INFO][测试2] 上传成功: code/autoFtpSync/synctask.cpp
+[09:56:02][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:56:02][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:56:02][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.h
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/ftpclient.cpp
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/synctask.h
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/synctask.cpp
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:56:02][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.cpp
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_ftpclient.cpp
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[09:56:32][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/ftpclient.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/configmanager.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/taskdialog.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[09:56:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_ftpclient.o
+[09:56:32][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[09:56:33][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[09:56:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[09:56:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:56:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[09:56:47][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:56:47][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:57:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:57:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:57:17][INFO][测试2] 上传成功: code/speed_test/local/speed.bin
+[09:57:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:57:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:57:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:57:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:57:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:57:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:58:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:58:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:58:01][INFO][测试2] MKD lics_test/code/ftptest_root 已存在
+[09:58:01][INFO][测试2] 上传成功: code/ftptest_root/speed_test/speed.bin
+[09:58:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:58:12][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:58:12][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:58:12][INFO][测试2] 上传成功: code/ftptest_root/speed_test/speed.bin
+[09:58:27][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:58:27][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:58:27][INFO][测试2] 上传成功: code/ftptest_root/speed_test/speed.bin
+[09:58:27][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/sync_meta 已存在
+[09:58:27][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/sync_meta/sync_meta_test-speed.json
+[09:58:27][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[09:59:03][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[09:59:03][INFO][系统] 自启动注册表写入状态: OK
+[09:59:03][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:59:03][INFO][测试] 任务已启动
+[09:59:03][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[09:59:03][INFO][测试2] 任务已启动
+[09:59:03][INFO][测试] FTP 登录成功: 10.50.1.205
+[09:59:03][INFO][测试] 服务器连接成功: 10.50.1.205
+[09:59:03][INFO][测试2] FTP 登录成功: 10.50.1.205
+[09:59:03][INFO][测试2] 服务器连接成功: 10.50.1.205
+[09:59:13][INFO][测试2] MKD lics_test 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_ftpclient.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/configmanager.o
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/ftpclient.o
+[09:59:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_ftpclient.cpp
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/synctask.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.cpp
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/taskdialog.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[09:59:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.o
+[09:59:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:59:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:59:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:59:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:59:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:59:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[09:59:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[09:59:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:18][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:18][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:00:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:00:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:18][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:18][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:48][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[10:01:48][INFO][测试2] 上传成功: code/autoFtpSync/webserver.h
+[10:01:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:01:58][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:01:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:01:58][INFO][测试2] 上传成功: code/autoFtpSync/webserver.h
+[10:01:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:02:08][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:02:08][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:02:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:02:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:02:23][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:02:23][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:02:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:02:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:02:33][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:02:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:02:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:02:43][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:02:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:02:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_webserver.o
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_webserver.cpp
+[10:03:03][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/webserver.o
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[10:03:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_webserver.o
+[10:03:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_webserver.cpp
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/webserver.o
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[10:03:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[10:03:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[10:03:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:03:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:03][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[10:07:03][INFO][系统] 自启动注册表写入状态: OK
+[10:07:03][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:07:03][INFO][测试] 任务已启动
+[10:07:03][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:07:03][INFO][测试2] 任务已启动
+[10:07:04][INFO][测试] FTP 登录成功: 10.50.1.205
+[10:07:04][INFO][测试] 服务器连接成功: 10.50.1.205
+[10:07:04][INFO][测试2] FTP 登录成功: 10.50.1.205
+[10:07:04][INFO][测试2] 服务器连接成功: 10.50.1.205
+[10:07:11][INFO][FTP浏览] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:07:11][INFO][FTP浏览] FTP 登录成功: 10.50.1.205
+[10:07:13][INFO][测试2] MKD lics_test 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[10:07:13][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:07:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/webserver.o
+[10:07:14][INFO][Web] Web 管理地址已复制到剪贴板
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_webserver.cpp
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[10:07:14][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[10:07:14][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:07:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/sync_meta 已存在
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/sync_meta/sync_meta_230cd8bf-148b-4d59-b53a-b0274fcf303d.json
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[10:07:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_webserver.o
+[10:07:14][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[10:07:14][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:07:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:28][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:07:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:38][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:07:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:48][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:07:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:07:58][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:08:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:08:08][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:08:13][INFO][测试3] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:08:13][INFO][测试3] 任务已启动
+[10:08:13][INFO][测试3] FTP 登录成功: 10.50.1.205
+[10:08:13][INFO][测试3] 服务器连接成功: 10.50.1.205
+[10:08:23][INFO][测试3] MKD lics_test 已存在
+[10:08:23][INFO][测试3] MKD lics_test/code 已存在
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile.Debug
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/filecore.h
+[10:08:23][INFO][测试3] MKD lics_test/docs 已存在
+[10:08:23][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-F(模块1000V)_TestR.csv
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/httpserver.o
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/release/config.o
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile.Release
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/filePreview.pro
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/mainwindow.ui
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Debug
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/release/main.o
+[10:08:23][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-I(模块1000V)_TestR.csv
+[10:08:23][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-K(模块1000V)_TestR.csv
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/release/moc_httpserver.o
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/Makefile.Debug
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/web_qmlcache.qrc
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/filePreview.exe
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/qrc_web.o
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile
+[10:08:23][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/mainwindow.o
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/release/filePreview.exe
+[10:08:23][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-C(模块1000V)_TestR.csv
+[10:08:23][INFO][测试3] 上传成功: code/filePreview/release/qrc_web.o
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/filePreview.exe
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_httpserver.o
+[10:08:24][INFO][测试3] 上传成功: testdata/2026-07-16-金顺11191-成品板279#-650v常温-G4_2026-07-16-金顺11191-成品板279#-650v常温_2026-07-16_10-33-55 - 副本.txt
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/release/qrc_web.cpp
+[10:08:24][INFO][测试3] 上传成功: testdata/test.txt
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/release/moc_mainwindow.cpp
+[10:08:24][INFO][测试3] 上传成功: testdata/需求文档.md
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Release
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/main.cpp
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/web_app_js.cpp
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config.o
+[10:08:24][INFO][测试3] 上传成功: docs/功能清单.md
+[10:08:24][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-L(模块1000V)_TestR.csv
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/release/httpserver.o
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/filecore.o
+[10:08:24][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-J(模块1000V)_TestR.csv
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/config/config.json
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/Makefile.Release
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/mainwindow.cpp
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/release/moc_mainwindow.o
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/web_app_js.o
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qmlcache_loader.o
+[10:08:24][INFO][测试3] 上传成功: testdata/readme.md
+[10:08:24][INFO][测试3] 上传成功: code/filePreview/release/mainwindow.o
+[10:08:24][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/taskinf.xml
+[10:08:24][INFO][测试3] 上传成功: testdata/软件设计文档.md
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/filecore.o
+[10:08:24][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-A(模块1000V)_TestR.csv
+[10:08:24][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:08:24][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-E(模块1000V)_TestR.csv
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/httpserver.o
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/release/moc_httpserver.cpp
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_httpserver.o
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_httpserver.cpp
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.filePreview.Debug
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/httpserver.h
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_web_qmlcache.cpp
+[10:08:25][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-B(模块1000V)_TestR.csv
+[10:08:25][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-G(模块1000V)_TestR.csv
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/.qmake.stash
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_httpserver.cpp
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/filecore.cpp
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/qrc_web.cpp
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.cpp
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/web/index.html
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/release/filecore.o
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/.qmake.stash
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/filePreview.pro.user
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/release/config/config.json
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/web/style.css
+[10:08:25][INFO][测试3] 上传成功: testdata/2026-07-16-金顺11191-成品板279#-650v常温-G4_2026-07-16-金顺11191-成品板279#-650v常温_2026-07-16_10-33-55.txt
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.o
+[10:08:25][INFO][测试3] 上传成功: docs/需求文档.md
+[10:08:25][INFO][测试3] 上传成功: code/filePreview/config.cpp
+[10:08:25][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/config.o
+[10:08:26][INFO][测试3] 上传成功: testdata/曲线图片.jpg
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/main.o
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/web.qrc
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/config.h
+[10:08:26][INFO][测试3] 上传成功: docs/软件设计文档.md
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/mainwindow.h
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/release/moc_predefs.h
+[10:08:26][INFO][测试3] 上传成功: testdata/测试.txt
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qmlcache_loader.cpp
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/.qmake.stash
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_web_qmlcache.o
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/web/app.js
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_web.o
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/httpserver.cpp
+[10:08:26][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-D(模块1000V)_TestR.csv
+[10:08:26][INFO][测试3] 上传成功: docs/模板文件/2025-11-20-26703景旺-SIR_2025-11-20_10-19-25/1-H(模块1000V)_TestR.csv
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_predefs.h
+[10:08:26][INFO][测试3] 上传成功: docs/模板文件/2026-07-16-金顺11191-成品板279#-650v常温-G4_2026-07-16-金顺11191-成品板279#-650v常温_2026-07-16_10-33-55 - 副本.txt
+[10:08:26][INFO][测试3] 上传成功: code/filePreview/Makefile
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/qrc_web.cpp
+[10:08:26][INFO][测试3] 上传成功: code/build-filePreview-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.filePreview.Release
+[10:08:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:08:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_e071b254-b8d1-44a3-84ab-51c85962ad7d.json
+[10:08:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:08:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:08:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:08:43][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:08:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:08:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:09:00][INFO][FTP浏览] 查看成功
+[10:09:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:09:03][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:09:05][INFO][FTP浏览] 查看成功
+[10:09:11][INFO][FTP浏览] 查看成功
+[10:09:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:09:13][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:09:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:09:23][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:09:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:09:33][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:09:35][INFO][测试2] 任务已停止
+[10:09:35][INFO][测试] 任务已停止
+[10:09:35][INFO][测试3] 任务已停止
+[10:22:41][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[10:22:41][INFO][系统] 自启动注册表写入状态: OK
+[10:22:41][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:22:41][INFO][测试] 任务已启动
+[10:22:41][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:22:41][INFO][测试2] 任务已启动
+[10:22:41][INFO][测试3] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:22:41][INFO][测试3] 任务已启动
+[10:22:41][INFO][测试3] FTP 登录成功: 10.50.1.205
+[10:22:41][INFO][测试3] 服务器连接成功: 10.50.1.205
+[10:22:41][INFO][测试2] FTP 登录成功: 10.50.1.205
+[10:22:41][INFO][测试2] 服务器连接成功: 10.50.1.205
+[10:22:41][INFO][测试] FTP 登录成功: 10.50.1.205
+[10:22:41][INFO][测试] 服务器连接成功: 10.50.1.205
+[10:22:51][INFO][测试] MKD lics_test 已存在
+[10:22:51][INFO][测试] 上传成功: 功能清单.md
+[10:22:51][INFO][测试2] MKD lics_test 已存在
+[10:22:51][INFO][测试2] MKD lics_test/code 已存在
+[10:22:51][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[10:22:51][INFO][测试2] 上传成功: code/autoFtpSync/main.cpp
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release 已存在
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release 已存在
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/synctask.o
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_synctask.o
+[10:22:51][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.cpp
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.cpp
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile
+[10:22:51][INFO][测试2] MKD lics_test/docs 已存在
+[10:22:51][INFO][测试2] 上传成功: docs/功能清单.md
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+[10:22:51][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.h
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI 已存在
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/Makefile
+[10:22:51][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.cpp
+[10:22:51][INFO][测试2] MKD lics_test/output 已存在
+[10:22:51][INFO][测试2] MKD lics_test/output/sync_meta 已存在
+[10:22:51][INFO][测试2] 上传成功: output/sync_meta/sync_meta_4ae831e3-0263-4912-b1f5-379b2263c7ad.json
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/taskdialog.o
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[10:22:51][INFO][测试2] MKD lics_test/output/log 已存在
+[10:22:51][INFO][测试2] 上传成功: output/log/2026-08-11.log
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/Makefile.Release
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/synctask.o
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release 已存在
+[10:22:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.o
+[10:22:51][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.h
+[10:22:51][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/config 已存在
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/config/config.json
+[10:22:52][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log 已存在
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/log/2026-08-11.log
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_versionmanager.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/object_script.autoFtpSync.Release
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile.Debug
+[10:22:52][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_taskdialog.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/versionmanager.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/configmanager.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile
+[10:22:52][INFO][测试2] MKD lics_test/output/config 已存在
+[10:22:52][INFO][测试2] 上传成功: output/config/config.json
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/autoFtpSync.exe
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/webserver.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/object_script.autoFtpSync.Debug
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/configmanager.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.o
+[10:22:52][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_e071b254-b8d1-44a3-84ab-51c85962ad7d.json
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_taskdialog.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/taskdialog.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_mainwindow.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/object_script.autoFtpSync.Release
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/main.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/Makefile.Release
+[10:22:52][INFO][测试2] 上传成功: code/autoFtpSync/webserver.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_taskdialog.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.autoFtpSync.Debug
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/ui_mainwindow.h
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Release
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/taskdialog.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_synctask.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_versionmanager.cpp
+[10:22:52][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_mainwindow.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_ftpclient.o
+[10:22:52][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_versionmanager.cpp
+[10:22:52][INFO][测试2] 上传成功: code/autoFtpSync/configmanager.h
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/webserver.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_versionmanager.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_webserver.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_ftpclient.cpp
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/object_script.autoFtpSync.Debug
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[10:22:52][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-CLI/release/log 已存在
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/log/2026-08-11.log
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_synctask.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/webserver.o
+[10:22:52][INFO][测试2] 上传成功: code/autoFtpSync/autoFtpSync.pro
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/synctask.o
+[10:22:52][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_webserver.cpp
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/versionmanager.o
+[10:22:53][INFO][测试2] 上传成功: output/autoFtpSync.exe
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_versionmanager.o
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_synctask.cpp
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/ftpclient.o
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_taskdialog.cpp
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/object_script.autoFtpSync.Release
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/Makefile.Debug
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/Makefile.Debug
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/mainwindow.o
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/configmanager.o
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/versionmanager.o
+[10:22:53][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Release/release/moc_versionmanager.cpp
+[10:23:01][INFO][测试] 上传成功: 功能清单.md
+[10:23:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:23:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:23:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:23:11][INFO][系统] 更新地址已保存
+[10:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:23:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:23:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:23:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:23:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:23:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:23:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:23:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:23:59][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui.autosave
+[10:23:59][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:24:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:24:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:24:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:24:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:24:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:24:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:24:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:24:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:24:42][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:24:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:24:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:25:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:25:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:25:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:25:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:25:36][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.cpp
+[10:25:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:25:36][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.h
+[10:25:36][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:25:36][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:25:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:25:46][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.cpp
+[10:25:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:25:46][INFO][测试2] 上传成功: code/autoFtpSync/versionmanager.h
+[10:25:46][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.cpp
+[10:25:46][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:25:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:25:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:25:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:26:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:26:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_versionmanager.cpp
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/mainwindow.o
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/ui_mainwindow.h
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/moc_versionmanager.o
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/autoFtpSync.exe
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/main.o
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-CLI/release/versionmanager.o
+[10:26:32][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:26:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:26:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:26:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:26:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:41][INFO][测试3] 控制连接断开: The remote host closed the connection
+[10:27:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:27:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:27:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:28:01][INFO][测试] 控制连接断开: The remote host closed the connection
+[10:28:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:28:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:28:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:28:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:28:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:28:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:28:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:28:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:28:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:28:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:29:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:29:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:30:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:30:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:31:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:31:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:32:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:32:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:33:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:33:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:34:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:34:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:26][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:36][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:46][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:35:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:35:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:36:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:36:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:36:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:36:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:36:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:36:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:36:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:36:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:36:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:36:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:37:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:37:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:01][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:11][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:38:51][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:38:57][INFO][测试2] 任务已停止
+[10:38:57][INFO][测试] 任务已停止
+[10:38:57][INFO][测试3] 任务已停止
+[10:39:05][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[10:39:05][INFO][系统] 自启动注册表写入状态: OK
+[10:39:05][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:39:05][INFO][测试] 任务已启动
+[10:39:06][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:39:06][INFO][测试2] 任务已启动
+[10:39:06][INFO][测试3] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:39:06][INFO][测试3] 任务已启动
+[10:39:06][INFO][测试2] FTP 登录成功: 10.50.1.205
+[10:39:06][INFO][测试2] 服务器连接成功: 10.50.1.205
+[10:39:06][INFO][测试3] FTP 登录成功: 10.50.1.205
+[10:39:06][INFO][测试3] 服务器连接成功: 10.50.1.205
+[10:39:06][INFO][测试] FTP 登录成功: 10.50.1.205
+[10:39:06][INFO][测试] 服务器连接成功: 10.50.1.205
+[10:39:10][INFO][系统] 更新地址已保存
+[10:39:15][INFO][测试2] MKD lics_test 已存在
+[10:39:15][INFO][测试2] MKD lics_test/code 已存在
+[10:39:15][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[10:39:15][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[10:39:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/versionmanager.o
+[10:39:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_versionmanager.cpp
+[10:39:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[10:39:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:39:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[10:39:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:39:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/main.o
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_versionmanager.o
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_e071b254-b8d1-44a3-84ab-51c85962ad7d.json
+[10:39:17][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:39:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[10:39:30][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:39:31][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:39:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:39:45][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[10:39:45][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:39:45][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:39:46][INFO][测试2] 任务已停止
+[10:39:46][INFO][测试] 任务已停止
+[10:39:46][INFO][测试3] 任务已停止
+[10:40:06][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[10:40:06][INFO][系统] 自启动注册表写入状态: OK
+[10:40:06][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:06][INFO][测试] 任务已启动
+[10:40:06][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:06][INFO][测试2] 任务已启动
+[10:40:06][INFO][测试3] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:06][INFO][测试3] 任务已启动
+[10:40:07][INFO][测试3] FTP 登录成功: 10.50.1.205
+[10:40:07][INFO][测试3] 服务器连接成功: 10.50.1.205
+[10:40:07][INFO][测试2] FTP 登录成功: 10.50.1.205
+[10:40:07][INFO][测试2] 服务器连接成功: 10.50.1.205
+[10:40:07][INFO][测试] FTP 登录成功: 10.50.1.205
+[10:40:07][INFO][测试] 服务器连接成功: 10.50.1.205
+[10:40:16][INFO][测试2] MKD lics_test 已存在
+[10:40:16][INFO][测试2] MKD lics_test/code 已存在
+[10:40:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[10:40:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[10:40:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[10:40:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:40:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:40:16][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[10:40:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:40:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:40:16][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_e071b254-b8d1-44a3-84ab-51c85962ad7d.json
+[10:40:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[10:40:17][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[10:40:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:40:17][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[10:40:22][INFO][测试2] 任务已停止
+[10:40:22][INFO][测试] 任务已停止
+[10:40:22][INFO][测试3] 任务已停止
+[10:40:31][INFO][Web] Web 远程管理已启动: http://本机IP:8899/?token={2b809546c3e940c7bf74206e946e097a}
+[10:40:31][INFO][系统] 自启动注册表写入状态: OK
+[10:40:31][INFO][测试] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:31][INFO][测试] 任务已启动
+[10:40:31][INFO][测试2] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:31][INFO][测试2] 任务已启动
+[10:40:31][INFO][测试3] 正在连接 10.50.1.205:7121 (ftp) ...
+[10:40:31][INFO][测试3] 任务已启动
+[10:40:31][INFO][测试] FTP 登录成功: 10.50.1.205
+[10:40:31][INFO][测试] 服务器连接成功: 10.50.1.205
+[10:40:31][INFO][测试3] FTP 登录成功: 10.50.1.205
+[10:40:31][INFO][测试3] 服务器连接成功: 10.50.1.205
+[10:40:31][INFO][测试2] FTP 登录成功: 10.50.1.205
+[10:40:31][INFO][测试2] 服务器连接成功: 10.50.1.205
+[10:40:41][INFO][测试2] MKD lics_test 已存在
+[10:40:41][INFO][测试2] MKD lics_test/code 已存在
+[10:40:41][INFO][测试2] MKD lics_test/code/autoFtpSync 已存在
+[10:40:41][INFO][测试2] 上传成功: code/autoFtpSync/mainwindow.ui
+[10:40:41][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug 已存在
+[10:40:41][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug 已存在
+[10:40:41][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log 已存在
+[10:40:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:40:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/mainwindow.o
+[10:40:41][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta 已存在
+[10:40:41][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:40:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/autoFtpSync.exe
+[10:40:42][INFO][测试2] MKD lics_test/code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config 已存在
+[10:40:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/config/config.json
+[10:40:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_bf5b9240-bf94-4f82-b5e8-6679b033b217.json
+[10:40:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_e071b254-b8d1-44a3-84ab-51c85962ad7d.json
+[10:40:42][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+[10:40:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:40:56][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:41:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:41:06][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:41:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/log/2026-08-11.log
+[10:41:21][INFO][测试2] 上传成功: code/build-autoUploadFiles-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/sync_meta/sync_meta_b03e7536-2774-4c1b-b2a0-f0df1594270a.json
+[10:41:25][INFO][测试2] 任务已停止
+[10:41:25][INFO][测试] 任务已停止
+[10:41:25][INFO][测试3] 任务已停止
